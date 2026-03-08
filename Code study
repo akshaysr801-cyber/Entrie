@@ -1,3 +1,6 @@
+bit sett
+
+
 #include <stdio.h>
 void PrintBin(int n){
     int i,mask;
